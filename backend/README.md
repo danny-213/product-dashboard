@@ -1,0 +1,3 @@
+HEROKU DEPLOYMENT 
+
+DATABASE_URL: postgres://jahdkcxibigpyo:22a55c9f968d9f9d944c3ed0853038572683f907718835b506f19748b9112655@ec2-35-169-9-79.compute-1.amazonaws.com:5432/diffp6errlqam
