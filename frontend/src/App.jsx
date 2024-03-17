@@ -14,7 +14,7 @@ function App() {
   }, []);
 
   const fetchProducts = async () => {
-    const response = await fetch("http://127.0.0.1:5000/products");
+    const response = await fetch("https://danny-213.github.io/product-dashboard/products");
     const data = await response.json();
     setProduct(data.products);
     console.log(data.products);
